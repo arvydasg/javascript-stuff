@@ -1,0 +1,25 @@
+.wrapper{
+  /* Center vertically and horizontally */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+button{
+    font-size: 20px;
+    background-color: red;
+}
+
+
+/* .fullscreenDiv { */
+/*     /\* /\\* center items Inside the div *\\/ *\/ */
+/*     display: flex; */
+/*     justify-content: center; */
+/*     align-items: center; */
+/*     text-align: center; */
+/*     background-color: orange; */
+/*     width: 100px; */
+/*     height: 100px; */
+/* } */
+
