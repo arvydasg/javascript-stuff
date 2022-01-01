@@ -6,6 +6,8 @@ body.style.backgroundColor = 'pink'
 
 button.addEventListener('click', changeB)
 
+butto.addEventListen('click', changeB)
+
 function changeB() {
     const colorIndex = parseInt(Math.random()*color.length)
     body.style.backgroundColor = color[colorIndex]
