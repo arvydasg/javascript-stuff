@@ -1,0 +1,13 @@
+* select a class
+#+BEGIN_SRC javascript
+const button = document.querySelector("button")
+#+END_SRC
+* add a css to a HTML element?
+#+BEGIN_SRC javascript
+body.style.backgroundColor = 'pink'
+#+END_SRC
+* add a css class to a JS HTML element
+#+BEGIN_SRC javascript
+my_element.classList.add('custom_class');
+#+END_SRC
+
